@@ -1,0 +1,16 @@
+Makefile.PL
+MANIFEST
+README
+t/Math-Subsets-List.t
+t/t00.t
+t/t01.t
+t/t02.t
+t/t03.t
+t/t03a.t
+t/t04.t
+t/t05.t
+t/t10.t
+t/d03.t
+t/die.t
+lib/Math/Subsets/List.pm
+META.yml                                 Module meta-data (added by MakeMaker)

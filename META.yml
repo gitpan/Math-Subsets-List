@@ -1,9 +1,9 @@
 --- #YAML:1.0
 name:               Math-Subsets-List
-version:            1.005
-abstract:           Generate all subsets of a list.
+version:            1.006
+abstract:           Generate all the subsets of a list.
 author:
-    - Philip R Brenan
+    - A. U. Thor <a.u.thor@a.galaxy.far.far.away>
 license:            unknown
 distribution_type:  module
 configure_requires:
